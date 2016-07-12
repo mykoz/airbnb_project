@@ -14,7 +14,9 @@ Here we aim to answer the question: Where will a new user look to book their fir
 * Pandas
 * xgboost
 * sklearn
+
 ____________________________________________________________
+
 ###iPython Notebook
 [Xtreme gradient boosting works pretty well](./airbnb/airbnb_kojak.ipynb)
 
